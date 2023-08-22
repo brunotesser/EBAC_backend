@@ -1,3 +1,5 @@
 > O que são APIs e porque usá-las
 
-- 
+- API = Pequenos sistemas para utilização. É forma de integrar sistemas: segurança, facilidades.
+- A vantagem é a segurança, monetização, redução do volume de dados, possibildiade de auditar acessos.
+- API é uma separação de cada serviços.
