@@ -1,0 +1,24 @@
+> Task
+
+- Pesquisar na internet o que é front-end, back-end. 
+- Trazer exemplos sobre.
+- Em poucas linhas.
+
+
+REPLY:
+
+Front-end e back-end são duas partes importantes quando se trata sobre criação de sites e aplicativos.
+
+No front-end é a parte na qual o usuário interagem diretamente, é como a aparência do site, incluindo como os botões e os menus funcionam, de como é organizado na tela, no caso é todo o LAYOUT e da página, dentro do front-end temos algumas tecnologias, exemplo:
+
+HTML: Criação da estrutura e conteúdo de uma página;
+CSS: Estilização e layout visual da página;
+JavaScript: Adição de interatividade e comportamentos dinâmicos;
+Já o back-end é como o "coração/cérebro" da operação, ele que vai lidar com todas as coisas complicadas que acontecem por trás das cenas, é onde as informações são processadas, armazenadas em bancos de dados e enviadas par ao front-end, exemplo, quando usuário preencher um formulário e clicar em "ENVIAR", o back-end é responsável por pegar essas informações e enviar a resposta daquele usuário que está aplicando, é como se tivesse uma equipe trabalhando nos bastidores para garantir que tudo funcione corretamente, algumas tecnologias de back-end:
+
+Node.js: Plataforma que permite executar JavaScript no servidor;
+Python: Linguagem de programação popular para desenvolvimento back-end;
+JAVA: Linguagem de programação versátil e popular usada para desenvolver aplicativos diversos.
+Ruby on Rails: Framework de desenvolvimento web em Ruby;
+PHP: Linguagem amplamente usada para criar aplicações web dinâmicas.
+Em resumo, o front-end é a parte visual e interativa de uma aplicação, enquanto o back-end é responsável pela lógica, processamento e gestão de dados. Ambos trabalham juntos para criar uma experiência completa e funcional para os usuários.
