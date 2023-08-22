@@ -1,0 +1,13 @@
+> TASK
+
+- Como são feitos os aplicativos modernos hoje em dia (como as páginas de app era feitas antigamente JSP) e como as páginas de app são feitas na hora moderna ANGULAR.
+
+> REPLY:
+
+Antigamente as páginas de app eram constrídas usando tecnologias como o JSP (JavaServer Pages), onde a lógica do servidor e a parte visual estavam misturadas em um único arquivo. Era comum criar páginas que tinham o código JAVA intercalado com o HTML, o que muitas vezes tornava o código difícil de manter e entender.
+
+Agora, nos dias atuais temos uma abordagem mais moderna, como o uso do Angular, que é um framework front-end que permite criar páginas web de forma mais modular e organizada, as páginas são construídas separando a lógica de negócios de design, isso tudo é feito por meio de componentes reutilizáveis, onde cada componente possui sua própria lógica e estilo, tornando o desenvolvimento mais eficiente e a manutenção mais fácil.
+
+Por exemplo, imagine um aplicativo de lista de tarefas, no passado com o uso do JSP, a página poderia misturar o código JAVA para gerenciar as tarefas com o HTML para exibi-las, hoje com o Angular, criaremos um componente de "Lista de Tarefas", separado que cuida da lógica de adicionar, remover e exibir as tarefas, e seria reutilizado em diferentes partes do aplicativo.
+
+Em resumo, podemos dizer que a transição da tecnologias como o JSP para Angular representa uma mudança significativa na forma como as páginas de aplicativos são desenvolvidas, tornando o processo mais organizado e eficiente.
