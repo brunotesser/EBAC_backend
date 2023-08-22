@@ -1,7 +1,7 @@
 <h3>Módulo 1 - Desmistificando o back-end e o front-end; </h3>
 <h3>Módulo 2 - APIs e páginas geradas pelo servidor; </h3>
 <h3>Módulo 3 - Instalação JDK; </h3>
-<h3>Módulo 4 - ; </h3>
+<h3>Módulo 4 ; </h3>
 
 
 
