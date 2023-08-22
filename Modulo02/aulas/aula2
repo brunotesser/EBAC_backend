@@ -1,3 +1,6 @@
 > Aula 2: Monolitos vs microsserviços
 
+- Monolitico é um DB para tudo que acontece no servido da empresa;
+- Microserviços é uma DB para pequenos módulos, de alguma coisa só.
+- Entrando em empresa, vamos pegar o sistema monolitico e aplicar para se transformar em microserviços;
 - 
