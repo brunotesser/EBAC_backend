@@ -1,2 +1,3 @@
->> O que é uma aplicação back-end
+> O que é uma aplicação back-end
 
+- Requisição: todo back-end está dentro de um servidor, ou seja, um browser pede uma solicitação para acessar;
