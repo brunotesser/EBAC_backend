@@ -1,3 +1,5 @@
 > Aula 3 - Instalando o JDK
 
 - Instalar o JAVA JDK
+- Ir nas propriedades e editar o PATH para %JAVA_HOME%/bin
+- Criar nova variavel com nome JAVA_HOME e colar pasta C:\Program Files\Java\jdk-11
